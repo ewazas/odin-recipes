@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(187, 241, 241);
+    font-family: 'Courier New', Courier, sans-serif;
+}
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul, ol {
+    font-size: 26px;
+    color: green;
+}
+
+
+h1 {
+    font-size: 38px;
+    color: rgb(25, 207, 8);
+}
+
+h2 {
+    color: rgb(32, 218, 109);
+}
+
+.ingredients {
+   font-weight: bold; 
+   color: rgba(0, 0, 0, 0.61);
+   text-align: left;
+}
+.main-list {
+    margin-bottom: 20px;
+}
+
+img {
+    border: 6px solid #555;
+    border-color: brown;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p {
+    font-size: 20px;
+}
